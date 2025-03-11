@@ -22,10 +22,12 @@ weights/*
 downloads/
 eggs/
 .eggs/
+model_free_ref_views/*
 lib/
 lib64/
 parts/
 sdist/
+train_data/*
 var/
 .vscode/
 wheels/
